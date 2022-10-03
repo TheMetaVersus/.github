@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to the MetaVersus™ Official GitHub page!</h1>
-
-![](https://myoctocat.com/assets/images/base-octocat.svg)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/TheMetaVersus/.github/main/profile/logo.svg" height="80">
+</p>
  
 <h3 align="center">MetaVersus™ - A true Web3 Gaming | Immersive | Online | Persistent | Rewarding Metaverse Platform</h3>
 
