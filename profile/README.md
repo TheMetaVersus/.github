@@ -5,7 +5,7 @@
 <h3 align="center">MetaVersus™ - A true Web3 Gaming | Immersive | Online | Persistent | Rewarding Metaverse Platform</h3>
 
 <p align="center">
-  A true<img src="https://readme-typing-svg.herokuapp.com?lines=Gaming;Immersive;Online;Persistent;Rewarding;&vCenter=true&center=true&width=100&height=14&duration=2000&pause=1000&size=14">Metaverse Platform
+    <img src="https://readme-typing-svg.herokuapp.com?lines=A+true+Gaming+Metaverse+Platform;A+true+Immersive+Metaverse+Platform;A+true+Online+Metaverse+Platform;A+true+Persistent+Metaverse+Platform;A+true+Rewarding+Metaverse+Platform;&vCenter=true&center=true&width=400&height=30&duration=4000&pause=1000&size=18">
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=TheMetaVersus&label=Profile%20views&color=0e75b6&style=flat" alt="TheMetaVersus" /></p>
