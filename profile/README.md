@@ -25,45 +25,45 @@ A new-age gaming ecosystem built using Unreal Engine5, powered by the BNB Blockc
 ## Components ##
 
 ### Markeplace Functionalities ###
-- Collections (Front-end)
-- NFT Marketplace (cloud)
-- NFT Marketplace (front-end)
-- Mint NFT functionality
-- List NFT functionality
-- NFT auction functionality
-- Upcoming Drops functionality
-- Payment integration native token
+- NFT Collections (Front-end)
+- NFT Marketplace (Cloud & Backend)
+- NFT Marketplace (Front-end)
+- Mint NFT Functionality
+- List NFT Functionality
+- NFT auction Functionality
+- Upcoming Drops Functionality
+- Payment Integration with Native Token: MTVS
 - Payment integration BNB, BUSD
-- Payment integration: Moonpay
+- Payment integration: MoonPay
 
 ### User Interface ###
-- Register Account
-- Connect Wallet
-- Native avatar customisation
-- ReadyPlayerMe avatar integration
-- Pay with crypto
-- Pay with debit card
+- Account Registration: Done
+- Wallet Integration: Done
+- Native Avatar Customisation: (In-Progress)
+- ReadyPlayerMe Avatar Integration: (In-Progress)
+- Pay with Crypto: BNB, BUSD, MTVS (Done)
+- Pay with Credit/Debit Card: MoonPay (In-Progress)
 
 ### Brand interface ###
-- Register account
-- Brand dashboard
-- Mint NFT functionality
-- List NFT collection functionality
-- Wallet integration
+- Account Registration: In-progress
+- Wallet Integration: Done
+- Brand Dashboard: In-progress
+- Mint NFT functionality: In-progress
+- List NFT collection Functionality: In-progress
 
 ### Smart Contract ###
-- Mint NFT
-- Binance Smart Chain integration
-- Polygon integration (coming soon)
+- Contracts: NFT Market, ERC721/ERC1155 NFTs, Staking Pool, MTVS Token
+- Binance Smart Chain Integration: Done
+- Polygon Integration: Coming Soon
 
 ### Unreal Engine 5 ###
 - Player Authentication
-- Avatar Integration (mention ReadyPlayerMe & native Avatar feature)
-- Current existing worlds (few lines about each on what they support, what players can do)
+- Avatar Integration (Native Platform Avatar & ReadyPlayerMe Avatar)
+- Current Existing Worlds: 
 - Product Release Stage: Closed Alpha (Q4 2022)
 - Build: Unreal Engine 5
 - UE5 Core Features: <br>`Lumen`: Unreal Engine 5's fully dynamic global illumination and reflections system that is designed for next-generation.<br>`Nanite`: Unreal Engine 5's virtualized geometry system which uses a new internal mesh format and rendering technology to render pixel scale detail and high object counts. It intelligently does work on only the detail that can be perceived and no more. Nanite's data format is also highly compressed, and supports fine-grained streaming with automatic level of detail.
-- Downloadable client: Coming Soon
+- Downloadable Client: Coming Soon
 - Pixel Streaming: Limited Support
 
 ## Release Schedule ##
@@ -72,11 +72,12 @@ A new-age gaming ecosystem built using Unreal Engine5, powered by the BNB Blockc
 
 They will also be able to purchase, sell, and mint NFTs from their favourite brands in our NFT marketplace.
 
-- Closed Alpha: Q4 2022. UnrealEngine5 + BSC deployment, Q4.
-- Open Alpha: Q1 2023. Polygon integration.
-- Beta: Q2 2023.
-- Brands integrations: In-progress.
-- Product: Downloadable client; Pixel Streaming available for premium brands.</p>
+- Closed Alpha: Q4 2022. UnrealEngine5 + BSC deployment, Q4
+- Open Alpha: Q1 2023. Polygon Integration
+- Beta: Q2 2023
+- Brands integrations: In-progress
+- Product: Downloadable client; Pixel Streaming available for premium brands
+</p>
 
 <br>
 <br>
