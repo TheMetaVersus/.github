@@ -56,6 +56,16 @@ A new-age gaming ecosystem built using Unreal Engine5, powered by the BNB Blockc
 - Binance Smart Chain integration
 - Polygon integration (coming soon)
 
+### Unreal Engine 5 ###
+- Player Authentication
+- Avatar Integration (mention ReadyPlayerMe & native Avatar feature)
+- Current existing worlds (few lines about each on what they support, what players can do)
+- Product Release Stage: Closed Alpha (Q4 2022)
+- Build: Unreal Engine 5
+- UE5 Core Features: <br>`Lumen`: Unreal Engine 5's fully dynamic global illumination and reflections system that is designed for next-generation.<br>`Nanite`: Unreal Engine 5's virtualized geometry system which uses a new internal mesh format and rendering technology to render pixel scale detail and high object counts. It intelligently does work on only the detail that can be perceived and no more. Nanite's data format is also highly compressed, and supports fine-grained streaming with automatic level of detail.
+- Downloadable client: Coming Soon
+- Pixel Streaming: Limited Support
+
 ## Release Schedule ##
 
 <p align="left">The alpha version of the product will offer several virtual worlds, an NFT marketplace designed for brands collections, meta-shops, the longest catwalk in the metaverse (in our FashionVerse), 3 virtual worlds (FashionVerse, WestWorld “Wild West” City world, MetaCity with AutoVerse & CityHall), and several activities available (horse riding, fishing, skateboarding, flying, running, events, gallery). Citizens can mint a Citizen NFT that grants them exclusive perks and opportunities, use the ReadyPlayerMe integration to bring their RPM avatars into our worlds, or build their own hyper realistic Digital Twin using our Avatar creation tool. 
